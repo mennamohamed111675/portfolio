@@ -1,0 +1,15 @@
+export const skills = [
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "TypeScript",
+  "React",
+  "Tailwind CSS",
+  "Bootstrap",
+  "Redux Toolkit",
+  "Git",
+  "GitHub",
+  "REST API",
+  "Vite",
+  "Figma",
+];
